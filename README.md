@@ -37,13 +37,19 @@ Aquí tienes las tecnologías y herramientas clave que domino y aplico en mi dí
 
 ### 📫 **Conectemos y Potenciemos tu Presencia Online!**
 
-Como parte de Clinmedia, estoy siempre abierto a discutir estrategias y proyectos donde mi experiencia en SEO pueda generar un impacto significativo. Si buscas potenciar tu visibilidad digital, no dudes en conectar conmigo. ¡Hablemos de cómo podemos llevar tu estrategia de SEO al siguiente nivel!
-
-[![Sitio Web Clinmedia](https://img.shields.io/badge/Sitio_Web_Clinmedia-008080?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=005757)](https://www.clinmedia.es/) 
+<p align="center">
+  <a href="https://www.clinmedia.es/">
+    <img src="https://img.shields.io/badge/Sitio_Web_Clinmedia-008080?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=005757" alt="Sitio Web Clinmedia">
+  </a>
+  <a href="https://www.linkedin.com/company/clinmedia-agencia-de-marketing/posts/?feedView=all">
+    <img src="https://img.shields.io/badge/LinkedIn_Clinmedia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00557A" alt="LinkedIn Clinmedia">
+  </a>
+  <a href="https://www.instagram.com/agenciaclinmedia/">
+    <img src="https://img.shields.io/badge/Instagram_Clinmedia-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=A02848" alt="Instagram Clinmedia">
+  </a>
+</p>
 
 ---
-
-<center>
 
 ### 🚀 **"En Clinmedia, transformamos la visibilidad online en resultados tangibles."**
 
