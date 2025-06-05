@@ -25,14 +25,10 @@ Aquí tienes las tecnologías y herramientas clave que domino y aplico en mi dí
 
 ---
 
-### 📈 **Mi Impacto en Clinmedia y el SEO**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio-Naoki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Antonio-Naoki&layout=compact&langs_count=8&theme=algolia"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antonio-Naoki&theme=blueberry" alt="Racha GitHub" />
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Clinmedia;%F0%9F%92%BB+SEO+Tecnico;%F0%9F%92%BB+Marketing;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Digital;%F0%9F%93%9A+Web;%E2%9C%A8+Analisis+SEO" alt="Encabezado animado" />
+</p>
+  
 ---
 
 ### 📫 **Conectemos y Potenciemos tu Presencia Online!**
